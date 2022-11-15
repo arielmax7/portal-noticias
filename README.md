@@ -1,0 +1,2 @@
+# portal-noticias
+API REST EN LARAVEL PARA LISTAR NOTICIAS
